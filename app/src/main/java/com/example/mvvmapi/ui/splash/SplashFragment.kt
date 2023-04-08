@@ -1,4 +1,4 @@
-package com.example.mvvmapi.ui.screen.fragment
+package com.example.mvvmapi.ui.splash
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

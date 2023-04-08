@@ -1,4 +1,4 @@
-package com.example.mvvmapi.data.models.item
+package com.example.mvvmapi.data.models.home
 
 data class HomeModelItem(
     val age: String,

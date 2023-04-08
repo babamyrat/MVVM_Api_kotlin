@@ -1,10 +1,10 @@
-package com.example.mvvmapi.ui.adapters.pager
+package com.example.mvvmapi.ui.root
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.mvvmapi.ui.screen.fragment.HomeFragment
-import com.example.mvvmapi.ui.screen.fragment.UserFragment
+import com.example.mvvmapi.ui.home.HomeFragment
+import com.example.mvvmapi.ui.user.UserFragment
 
 class ViewPagerAdapter(fragmentActivity: FragmentActivity):FragmentStateAdapter(fragmentActivity){
     override fun getItemCount(): Int {

@@ -1,4 +1,4 @@
-package com.example.mvvmapi.ui.screen.fragment
+package com.example.mvvmapi.ui.root
 
 
 import android.content.Context
@@ -9,7 +9,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.FragmentActivity
 import com.example.mvvmapi.R
-import com.example.mvvmapi.ui.adapters.pager.ViewPagerAdapter
 import com.google.android.material.tabs.TabLayoutMediator
 import kotlinx.android.synthetic.main.fragment_root.view.*
 
